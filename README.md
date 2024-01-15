@@ -2,7 +2,7 @@
 &nbsp;
 
 ### Description
-Exemplo utilizando o ORM Typesrcipt Drizzle para bancos de dados SQL. Para tal foram utilizados o Nodejs, Typescript e banco de dados PostgreSQL.
+Utilizando o ORM Typesrcipt Drizzle para bancos de dados SQL. Para tal foram utilizados o Nodejs, Typescript e banco de dados PostgreSQL para criação de um CRUD de usuários.
 
 &nbsp;
 
