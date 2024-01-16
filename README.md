@@ -43,7 +43,7 @@ Utilizando o ORM Typesrcipt Drizzle para bancos de dados SQL. Para tal foram uti
 
 &nbsp;
 
-### Instalação e execução do projeto
+### Instalação e execução do banco de dados
 
 ```dosini
 docker-compose up
@@ -63,6 +63,14 @@ npm run generate
 
 ```dosini
 npm run migrate
+```
+
+&nbsp;
+
+### Execute o projeto 
+
+```dosini
+npm run start
 ```
 
 &nbsp;
