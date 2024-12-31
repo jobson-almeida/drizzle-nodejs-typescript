@@ -2,7 +2,7 @@ import type { Config } from 'drizzle-kit';
 
 export default {
   schema: './drizzle/schema/index.ts',
-  out: './drizzle',
+  out: './drizzle/migrations',
   driver: 'pg',
   verbose: true,
   strict: true,
