@@ -40,6 +40,15 @@ Utilizando o ORM Typesrcipt Drizzle para bancos de dados SQL. Para tal foram uti
     <img src="https://cdn.worldvectorlogo.com/logos/npm-2.svg" alt="npm" title="npm" width="100" height="40" />
   </a>
 </p>
+ 
+
+&nbsp;
+
+### Criar o arquivo .env e adicionar a variável de conexão com o banco de dados
+
+```dosini
+DATABASE_URL=postgresql://docker:docker@localhost:5432/drizzle_nodejs_typescript
+```
 
 &nbsp;
 
